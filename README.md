@@ -4,4 +4,4 @@
 
 ## for using the app:
 
-goto the url: https://mellifluous-hamster-f30d1b.netlify.app/
+goto the url: https://tic-tac-toe-silk-pi.vercel.app/
